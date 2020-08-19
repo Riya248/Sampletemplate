@@ -121,8 +121,8 @@ p{
 
 
 
-     @media (max-width: 1028px) {
-       .bd-placeholder-img-lg {
-         font-size: 3.5rem;
+     @media (min-width: 530px) {
+       #Home {
+         text-align:center;
        }
      }
